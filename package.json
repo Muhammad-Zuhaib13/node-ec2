@@ -1,0 +1,14 @@
+{
+  "name": "ec2-node-learning-app",
+  "version": "1.0.0",
+  "description": "A small Node.js application for learning EC2 deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
